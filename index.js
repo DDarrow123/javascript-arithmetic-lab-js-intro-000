@@ -35,10 +35,3 @@ function makeInt(a){
   return a.toString();
 
 }
-
-function makeInt('0x2328', 10){
-
-  return 0;
-
-  
-}
